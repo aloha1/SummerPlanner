@@ -4,4 +4,5 @@
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
     <color name="colorTitleDivider">#33B3DE</color>
+    <color name="colorSearchBar">#FFF</color>
 </resources>
