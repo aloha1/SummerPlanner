@@ -23,7 +23,6 @@ public class DayForeCast {
     }
 
     private String day;
-
     private String minTemp;
     private String maxTemp;
 }
